@@ -232,10 +232,10 @@ export default function App() {
         </button>
       ))}
       {battleImage.map(image =>(
-        <img key={image.id}className='selectedHand' src={image.img} style={{left:image.left,width: image.length || '20vmin', height: image.length || '20vmin'}}></img>
+        <img key={image.id}className='selectedHand' src={image.img} style={{left:image.left,width: image.length || '40vmin', height: image.length || '40vmin'}}></img>
       ))}
        {battleImageOpp.map(image =>(
-        <img key={image.id}className='selectedHand' src={image.img} style={{left:image.left,width: image.length || '20vmin', height: image.length || '20vmin'}}></img>
+        <img key={image.id}className='selectedHand' src={image.img} style={{left:image.left,width: image.length || '40vmin', height: image.length || '40vmin'}}></img>
       ))}
       <p className="label">{labelText}</p>
       
