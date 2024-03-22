@@ -1,7 +1,7 @@
 <h1>RPS in JSX and React</h1>
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1198039406708277308/image.png?ex=65bd7425&is=65aaff25&hm=ddc0305b2536ce6b36a9b737a1a3c43ac8ab7672f38db8d0d70d3d4e0af4eb59&">
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1198039669955383427/image.png?ex=65bd7463&is=65aaff63&hm=d4d608d514e7b6c281a4c12622a470aadaebfeeb6c9f7df1144019b03cc1ff7e&">
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1198040039687458896/image.png?ex=65bd74bb&is=65aaffbb&hm=cc5c423278667ca61bee32afec6abcc8af78db6934f727c954cfa51e1027efc9&">
+<img src="preview_images/img1.png">
+<img src="preview_images/img2.png">
+<img src="preview_images/img3.png">
 <h2>Learned</h2>
 <ul>
   <li>Using basic React and JSX</li>
